@@ -1,5 +1,6 @@
-# Projekat1
+# Angular Code with us Quick start
 
+This is tutorial angular project from (https://app.pluralsight.com/library/courses/code-with-us-angular-quick-start/table-of-contents)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
